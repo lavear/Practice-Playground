@@ -1,4 +1,4 @@
-# Monaco AI Ghost Text Assistant
+# Practice Playground
 
 This project integrates an AI-powered inline code suggestion system (Ghost Text) directly into the Monaco Editor. It provides a Copilot-like experience with advanced features such as multi-language syntax highlighting within the suggestions, smart caching for partial acceptance, and predictive next-step generation.
 
